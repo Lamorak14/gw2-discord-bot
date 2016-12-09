@@ -12,7 +12,7 @@ role = "" # Name of the role, leave blank if you don't want this
 
 [guild]
 id  = "5F0E8757-BAE2-4219-A6DE-61AEBF0718E2"
-key = "" # API Key from top guild rank with the "guilds" permission
+key = "04B26230-FCAC-784F-B244-2835C16F4B8FB8D8E5CA-A699-4CB7-A11A-0138720624BE"
 member_role = "" # Name of the role guild members go in
 create_roles = true # Have the bot create roles for each rank.  If false, members will only be assigned to their rank role if it exists.
 motd_channel = "" # Will set the channel description to the guild motd
