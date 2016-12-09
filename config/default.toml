@@ -11,7 +11,7 @@ id = 1017 # world member has to be on to get in role, and default world for wvw 
 role = "" # Name of the role, leave blank if you don't want this
 
 [guild]
-id  = "" # 5F0E8757-BAE2-4219-A6DE-61AEBF0718E2
+id  = "5F0E8757-BAE2-4219-A6DE-61AEBF0718E2"
 key = "" # API Key from top guild rank with the "guilds" permission
 member_role = "" # Name of the role guild members go in
 create_roles = true # Have the bot create roles for each rank.  If false, members will only be assigned to their rank role if it exists.
@@ -23,9 +23,9 @@ motd_excluded_subdomains = [ # An array of url subdomains of which the url shoul
 ]
 
 [discord]
-clientid = "" # 256668634363985923
-client_secret = "" # m2gHNZyyU978o6GDSMLM4j82dQ3AeVIM
-token = "" # MjU2NjY4NjM0MzYzOTg1OTIz.CyvlkA.0Ks3F3Zk2P6MNV3F-c9vG574ZXU
+clientid = "256668634363985923"
+client_secret = "m2gHNZyyU978o6GDSMLM4j82dQ3AeVIM"
+token = "MjU2NjY4NjM0MzYzOTg1OTIz.CyvlkA.0Ks3F3Zk2P6MNV3F-c9vG574ZXU"
 
 # The "web" feature is disabled by default, enabling it adds a webs server which allows users to login and view more detailed reports and configure some options.
 [web]
