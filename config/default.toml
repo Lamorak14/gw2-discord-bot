@@ -1,4 +1,4 @@
-
+# Copy this file to local.toml to make changes for a version that git will ignore.
 [redis]
 host = "127.0.0.1"
 port = "6379"
