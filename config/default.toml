@@ -11,7 +11,7 @@ id = 1017 # world member has to be on to get in role, and default world for wvw 
 role = "" # Name of the role, leave blank if you don't want this
 
 [guild]
-id  = "" # Guild unique ID in format XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX, this can be found at https://api.guildwars2.com/v2/guild/search?name=[guild name]
+id  = "" # 5F0E8757-BAE2-4219-A6DE-61AEBF0718E2
 key = "" # API Key from top guild rank with the "guilds" permission
 member_role = "" # Name of the role guild members go in
 create_roles = true # Have the bot create roles for each rank.  If false, members will only be assigned to their rank role if it exists.
